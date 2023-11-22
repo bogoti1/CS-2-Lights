@@ -1,0 +1,11 @@
+
+
+
+1. Download and unzip this folder
+2. Run SETUP.EXE from CH341SER folder
+3. Copy gamestate_integration_LightsCfg.cfg to the cfg folder of CounterStrike (your local installation path)
+      Usualy at: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg
+4. Run CS2_Lights.exe from CS2LightsPortableApp (this is the main application)
+      From here you hit CONNECT button to connect to CS2Lights box, and you can start playing.
+      From Setup menu, you can also configure the color scheme and reactions to the actual game, in order to  have the best experience for you. Don't forget to UPLOAD your settings at the end.
+
